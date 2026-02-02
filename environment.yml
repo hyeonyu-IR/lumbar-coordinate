@@ -1,0 +1,4 @@
+name: miniconda_medimg_env
+channels:
+  - defaults
+prefix: C:\Users\hyeon\miniconda3\envs\miniconda_medimg_env
