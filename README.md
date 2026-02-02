@@ -219,4 +219,4 @@ print("PDF saved to:", out_pdf)
 ---
 
 **Contact / Maintainer:** hyeonyu-IR  
-**License:** MIT (or add your choice in LICENSE)
+**License:** MIT
