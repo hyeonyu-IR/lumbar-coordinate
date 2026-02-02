@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+
+# Runs & Reports (optional keep locally)
+runs/
+reports/
+
+# VSCode etc.
+.vscode/
+.ipynb_checkpoints/
